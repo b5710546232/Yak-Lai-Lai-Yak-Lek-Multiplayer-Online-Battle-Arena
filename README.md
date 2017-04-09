@@ -5,6 +5,11 @@
 
 [app for osx](https://drive.google.com/open?id=0B5ABf87AkWwNdTZUTEZHanVxM3M)
 
+## repository
+
+[client](https://github.com/b5710546232/ku-game-dev-project-client)
+[server](https://github.com/b5710546232/Yak-Lai-Lai-Yak-Lek-Multiplayer-Online-Battle-Arena)
+
 
 ## Outline
 * [Introduction](#introduction)
@@ -48,6 +53,7 @@ npm start
 
 ## Goal
 Defeat every one and be the greatest Yak in this arena.
+
 
 ## Members 
 Kitipoom    Kongpetch       5710546160
