@@ -1,7 +1,9 @@
 # Yak-Lai-Lai-Yak-Lek-Multiplayer-Online-Battle-Arena
 
+## output
 [exe for window](https://drive.google.com/file/d/0B_uW2M6-EdQUeE9fVmdCcFQ0VjA/view?usp=sharing)
 
+[app for osx](https://drive.google.com/open?id=0B5ABf87AkWwNdTZUTEZHanVxM3M)
 
 
 ## Outline
